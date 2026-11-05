@@ -1,6 +1,6 @@
-# Whiteout Rally Timer – Pool edition
+# Whiteout Rally Timer – under construction
 
-A copy of the Rally Timer with an **Vault** (players, spots, map) added. Static files, no build step.
+A branch of the Rally Timer with an **Vault** (players, spots, map) added. Static files, no build step.
 
 ## What is new
 - **Vault** button (top right): a separate space with Players, Spots and two maps.
