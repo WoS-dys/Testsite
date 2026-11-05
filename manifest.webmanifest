@@ -1,6 +1,6 @@
 {
-  "name": "Whiteout Rally Timer Pool",
-  "short_name": "Rally Pool",
+  "name": "WoS RT dev",
+  "short_name": "RT dev",
   "description": "Rally timer with an info pool: players, spots and a march-time map.",
   "start_url": "./index.html",
   "scope": "./",
